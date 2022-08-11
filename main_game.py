@@ -1,6 +1,5 @@
 from vars import *
 from funcs import *
-from db_fucns import *
 
 shuffle_deck(deck)
 dist_cards(deck, player, bot_1, bot_2, bot_3)
